@@ -41,6 +41,10 @@ h1{
     background: teal;
 }
 
+.navbar-brand{
+    margin-left: 0px;
+}
+
 
 .content-box{
     background: white;
