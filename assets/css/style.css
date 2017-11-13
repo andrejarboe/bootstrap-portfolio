@@ -1,0 +1,55 @@
+/* Sticky footer styles
+-------------------------------------------------- */
+
+html,
+body {
+  height: 100%;
+  /* The html and body elements cannot have any padding or margin. */
+}
+
+/* Wrapper for page content to push down footer */
+#wrap {
+  min-height: 100%;
+  height: auto;
+  /* Negative indent footer by its height */
+  margin: 0 auto -60px;
+  /* Pad bottom by footer height */
+  padding: 0 0 60px;
+}
+body{
+    background: lightgrey;
+}
+
+.navbar-default .navbar-brand{
+    margin-left: 0px;
+}
+
+h1{
+    font-size: 30px;
+    color: teal;
+    font-weight: bold;
+}
+
+
+
+.navbar-default .navbar-brand {
+    color: white;
+    background: teal;
+}
+
+
+.content-box{
+    background: white;
+    padding: 20px;
+}
+
+/* FOOTER */
+footer{
+    background: gray;
+    height: 60px;
+    border-top: 5px solid teal;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
