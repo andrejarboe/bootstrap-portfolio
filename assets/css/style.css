@@ -24,6 +24,10 @@ body{
     margin-left: 0px;
 }
 
+.bars{
+    border-left: 2px solid black;
+}
+
 h1{
     font-size: 30px;
     color: teal;
