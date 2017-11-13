@@ -1,7 +1,16 @@
-/* .logo{
-    width: 30%;
-} */
 
-.box{
-    background: red;
+.caption{
+    background: teal;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    margin-bottom: 20px;
+}
+
+footer{
+    margin-top: 20px;
+}
+
+.navbar-brand{
+    margin-left: 0px;
 }
