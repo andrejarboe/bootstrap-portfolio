@@ -1,0 +1,10 @@
+
+label{
+    color: gray;
+}
+
+.btn-default{
+    color: white;
+    background-color: teal;
+    border: none;
+}
